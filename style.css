@@ -1,0 +1,409 @@
+html {
+    background-color: rgb(223, 223, 223);
+    font-size: medium;
+}
+.home_pod_headline {
+    font-size: 90px;
+    color: #272727;
+    font-family: 'Arial', sans-serif;
+    position: absolute;
+    left: 210px;
+    line-height: 177px;
+    text-align: center;
+    font-weight: 800;
+    top: 25px;
+}
+/* IMAGES*/
+.apple_logo_png {
+    width: 18px;
+    height: auto;
+    left: 186px;
+    top: 11px;
+    position: absolute;
+}
+.home_pod_img {
+    position: absolute;
+    height: 350px;
+    width: auto;
+    text-align: center;
+    left: 510px;
+    top: 530px;
+}
+.cart_logo_png {
+    position: absolute;
+    width: 28px;
+    height: auto;
+    right: 225px;
+    top: 9px;
+}
+.search_logo {
+    position: absolute;
+    width: 18px;
+    height: auto;
+    top: 14px;
+    left: 1055px;
+}
+ /* Productions */
+.store {  
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 250px;
+}
+.mac {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 320px;
+}
+.ipad {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 383px;
+}
+.iphone {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 448px;
+}
+.watch {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 525px;
+}
+.airpods {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 594px;
+}
+.tv_home {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 672px;
+}
+.entertainment {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 770px;
+}
+.accesories {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 880px;
+}
+.support {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 3px;
+    left: 972px;
+}
+/* Middle*/
+.midle1 {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    color: #6b6b6b;
+    height: 100vh;
+    top: 300px;
+    left: 260px;
+    font-weight: bold;
+    position: absolute;
+}
+.midle2 {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    color: #6b6b6b;
+    height: 100vh;
+    font-weight: bold;
+    top: 325px;
+    position: absolute;
+    left: 263px;
+}
+.midle3 {
+    font-family: "Verdana", sans-serif;
+    font-size: 20px;
+    color: #6b6b6b;
+    height: 100vh;
+    font-weight: bold;
+    position: absolute;
+    top: 350px;
+    left: 485px;
+}
+.title_homepod {
+    font-family: "Arial", sans-serif;
+    font-size: 40px;
+    top: 530px;
+    left: 170px;
+    position: absolute;
+    color: #2f2f2f;
+    font-weight: 550;
+}
+.title_homepod_mini {
+    font-family: "Arial", sans-serif;
+    font-size: 40px;
+    top: 530px;
+    left: 890px;
+    position: absolute;
+    color: #2f2f2f;
+    font-weight: 550;
+}
+.text_homepod {
+    font-family: sans-serif;
+    font-size: 19px;
+    color: #292929;
+    position: absolute;
+    top: 610px;
+    left: 136px;
+    font-weight: 500;
+}
+.text_homepod_mini {
+    font-family: "Arial", sans-serif;
+    font-size: 19px;
+    color: #292929;
+    position: absolute;
+    top: 610px;
+    left: 915px;
+    font-weight: 500;
+}
+.money1 {
+    font-family: sans-serif;
+    font-size: 23px;
+    color: #292929;
+    position: absolute;
+    top: 637px;
+    left: 237px;
+    font-weight: 500;
+}
+.money2 {
+    font-family: sans-serif;
+    font-size: 23px;
+    color: #292929;
+    position: absolute;
+    top: 637px;
+    left: 1012px;
+    font-weight: 500;
+}
+.button_1 {
+    background-color: rgb(0, 68, 255);
+    padding: 10px 20px;
+    border-radius: 100px;
+    font-size: 16px;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+    position: absolute;
+    top: 700px;
+    left: 160px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    box-shadow: 0 0 5px #4c6aff;
+}
+.button_2 {
+    background-color: rgb(0, 68, 255);
+    padding: 10px 20px;
+    border-radius: 100px;
+    font-size: 16px;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+    position: absolute;
+    top: 690px;
+    left: 930px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    box-shadow: 0 0 5px #4c6aff;
+}
+/* reference for LEARN MORE*/
+.reference1 { 
+    font-size: 16px;
+    color: #1c2e86;
+    position: absolute;
+    position: absolute;
+    text-decoration: none;
+    font-family: "Arial";
+    left: 255px;
+    top: 710px;
+}
+.reference2 { 
+    font-size: 16px;
+    color: #1c2e86;
+    position: absolute;
+    position: absolute;
+    text-decoration: none;
+    font-family: "Arial";
+    left: 1025px;
+    top: 714px;
+}
+.new {
+    background-color: none;
+    padding: 3px 20px;
+    border-radius: 100px;
+    font-size: 16px;
+    color: #f1533e;
+    cursor: pointer;
+    border: none;
+    position: absolute;
+    top: 500px;
+    left: 223px;
+    border: 1px solid #f1533e;
+    font-family: 'Tahoma';
+}
+.line_1 {
+    border: none;
+    height: 50px;
+    background-color: #b8b8b869;
+    position: relative;
+    top: 40px;
+}
+.line_2 {
+    border: none;
+    height: 3px;
+    background-color: #000000;
+    position: relative;
+    top: 1000px;
+}
+.my_foto {
+    position: absolute;
+    top: 1157px;
+    left: 100px;
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #f7ff12;
+}
+.music_pro {
+    position: absolute;
+    font-family: "Arial";
+    font-size: 15px;
+    top: 50px;
+    left: 460px;
+}
+.reference_music { 
+    font-size: 16px;
+    color: #1c2e86;
+    position: absolute;
+    text-decoration: none;
+    font-family: "Arial";
+    left: 850px;
+    top: 65px;
+    font-weight: 100;
+}
+.about_me {
+    font-family: 'Gill Sans';
+    position: absolute ;
+    top: 1030px;
+    font-size: 50px;
+    left: 550px;
+}
+.about_me_text_1 {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 1130px;
+    left: 280px;
+}
+.about_me_text_2 {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 1155px;
+    left: 330px;
+}
+.copyright {
+    position: relative;
+    font-size: 10px;
+    top: 1050px;
+    margin-left: 3px;
+    text-decoration: none;
+    color: #000;
+}
+.contact_me {
+    position: absolute;
+    top: 1100px;
+    left: 400px;
+    font-family: "Arial";
+    font-size: 30px;
+}
+.contact_me_headline {
+    position: absolute;
+    top: 1190px;
+    left: 570px;
+    font-family: "Arial";
+    font-size: 30px;
+    font-weight: bold;
+}
+.text {
+    position: relative;
+    font-family: "Monaco";
+    font-size: 30px;
+}
+.instagram {
+    position: relative;
+    top: 1000px;
+    color: #82047e;
+    border-radius: 10px;
+}
+.notice {
+    position: absolute;
+    top: 900px;
+    right: 170px;
+    font-family: 'Arial';
+    font-size: 20px;
+    color: #414141;
+    font-weight: bold;
+}
+.notice_text {
+    position: absolute;
+    top: 936px;
+    right: 10px;
+    font-family: 'Arial';
+    font-size: 13px;
+    color: #6e6e6e;
+}
+.expanding-button {
+    width: 200px; /* Изначальная ширина кнопки */
+    height: 40px; /* Изначальная высота кнопки */
+    text-align: center;
+    line-height: 40px; /* Центрирование текста */
+    background-color: #282828; /* Цвет фона кнопки */
+    color: #ffffff; /* Цвет текста */
+    cursor: pointer;
+    padding: 0px;
+    border: none;
+    border-radius: 50px;
+    position: absolute;
+    top: 920px;
+    left: 60px;
+    box-shadow: 0 0 5px #363636;
+}
+.expanded {
+    height: 80px; /* Новая высота при нажатии */
+    background-color: #2e2e2e;
+    box-shadow: 0 0 5px #686868;
+    border-radius: 20px;
+}
+a {
+    font-family: "Arial";
+    border: none
+}
+a {
+    color: #ffffff;
+    font-size: 15px;
+    text-decoration: none;
+    border: none
+}
